@@ -1,0 +1,7 @@
+.*
+*~
+!.htaccess
+!.gitignore
+!.gitattributes
+Phuct.sh
+Vagrantfile

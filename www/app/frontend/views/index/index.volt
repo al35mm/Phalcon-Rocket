@@ -77,7 +77,7 @@
                         </div>
                         <div class="ui hidden divider"></div>
                         <p>{{ linkTo(['doc', '<i class="book icon"></i> ' ~  __('Documentation'), 'class' : 'ui big brown button']) }}</p>
-                        <p><a href="https://github.com/al35mm/Phalcon-Rocket-App" target="_blank" class="ui massive grey button"><i class="github icon"></i> Fork on GitHub</a></p>
+                        <p><a href="https://github.com/al35mm/Phalcon-Rocket" target="_blank" class="ui massive grey button"><i class="github icon"></i> Fork on GitHub</a></p>
                     </div>
                 </div>
 

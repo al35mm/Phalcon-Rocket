@@ -41,7 +41,7 @@
 
 ### Links:
 * [Phalcon PHP](https://phalconphp.com)
-* [Phalcon Rocket on GitHub](https://github.com/al35mm/Phalcon-Rocket-App)
+* [Phalcon Rocket on GitHub](https://github.com/al35mm/Phalcon-Rocket)
 * [Semantic UI](http://http://semantic-ui.com/)
 
 ***
