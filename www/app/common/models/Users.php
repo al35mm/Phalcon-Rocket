@@ -201,6 +201,9 @@ class Users extends \Phalcon\Mvc\Model
         $validation->add('email', new \Baseapp\Extension\Uniqueness(array(
             'model' => '\Baseapp\Models\Users',
         )));
+        // agree to terms - Note "value" replaces "accepted" for backward compatibility
+        // with older versions of Phalcon. E.g. on 2.0.3 this validation works backwards
+        // if "accepted" is used!
         $validation->add('agree', new \Phalcon\Validation\Validator\Identical(array(
             'value' => 'yes',
             'message' => 'You must accept the terms and conditions'
