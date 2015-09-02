@@ -1,22 +1,21 @@
-# Phalcon Rocket App 1.3.1-beta
+# Phalcon Rocket 1.3.1-beta
 ***
 ####A PhalconPHP base app
-Phalcon Rocket App provides PhalconPHP developers with a structured foundation, common features and 
-useful functions to kick start your project. It's a base application that's ready for you to turn into 
-any kind of application you want. Phalcon Rocket App is based on Mruz's base app which he no longer seems 
-to be maintaining. I have made many changes, improvements and additions so that it better serves my 
+Phalcon Rocket provides PhalconPHP developers with a structured foundation, common components and 
+useful functions to kick start a project in PhalconPHP. It's a base application that's ready for you to turn into 
+any kind of application you want. Phalcon Rocket is based on Mruz's base app which no longer seems 
+to be maintained. I have made many changes, improvements and additions so that it better serves my 
 application needs, so I make it available here for anyone else who may find it useful.
 
 ####[Try The Demo](http://phalcon-rocket.phuct.org/)
 
-###What is it and what does it do?
-Phalcon Rocket App is not a complete application. It provides the structure and a number of components that 
-are commonly required by most web applications, so that your app development can start at a more advanced 
-stage, with out you having to bootstrap and build common components from scratch. Common components include 
-things like role based member auth, sign up, login and contact forms and so on.
+Phalcon Rocket's common components include things like role based member auth, sign up, login and contact forms and 
+so on. It is a multi modular (HMVC) app. It uses Semantic UI which I personally like a lot 
+more than Twitter Bootstrap.
 
-Phalcon Rocket App is a multi modular (HMVC) app. It uses Semantic UI which I personally think is a lot 
-better than Twitter Bootstrap.
+Feel free to contribute to this project. The principals of Phalcon Rocket are that it should provide a foundation to 
+develop upon, and that the only components included are those likely to be required in most applications. Other more 
+application specific components could be provided as plugins.
 
 
 ###Feature Overview
