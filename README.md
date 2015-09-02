@@ -9,8 +9,8 @@ application needs, so I make it available here for anyone else who may find it u
 
 ####[Try The Demo](http://phalcon-rocket.phuct.org/)
 
-Phalcon Rocket's common components include things like role based member auth, sign up, login and contact forms and 
-so on. It is a multi modular (HMVC) app. It uses Semantic UI which I personally like a lot 
+Phalcon Rocket's common components include such things as role based member auth, sign up, login and contact forms, 
+ Recaptcha and so on. It is a multi modular (HMVC) app and uses Semantic UI which I personally like a lot 
 more than Twitter Bootstrap.
 
 Feel free to contribute to this project. The principals of Phalcon Rocket are that it should provide a foundation to 
