@@ -8,8 +8,7 @@
                 </div>
             </h1>
             <div class="ui basic segment">
-                <h2 class="ui brown header">{{ __('A base application for PhalconPHP') }}
-                </h2>
+                <h2 class="ui brown header">{{ __('A base application for PhalconPHP') }}</h2>
 
                 <p>{{ app_name }} is based on Mruz's base
                         app which he
