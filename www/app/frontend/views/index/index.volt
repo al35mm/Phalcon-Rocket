@@ -2,7 +2,7 @@
 <div class="ui grid">
     <div class="row">
         <div class="column">
-            <h1 class="ui icon header"><i class="red rocket icon animated bounceInUp"></i> {{ app_name }} {{ this.config.app.version }}
+            <h1 class="ui icon header"><i class="red rocket icon animated bounceInUp"></i> Phalcon Rocket {{ this.config.app.version }}
                 <div class="sub header">{{ __('Use this application to kick start any new PhalconPHP project!') }}
                     {#{{ __('See working :link, user/pass: :users.', [':link' : '<a href="http://base-app.mruz.me">base-app</a>', ':users' : 'user user, admin admin']) }}#}
                 </div>
@@ -10,14 +10,14 @@
             <div class="ui basic segment">
                 <h2 class="ui brown header">{{ __('A base application for PhalconPHP') }}</h2>
 
-                <p>{{ app_name }} is based on Mruz's base
+                <p>Phalcon Rocket is based on Mruz's base
                         app which he
                     no longer seems to be maintaining. I have found it useful as a foundation for kick starting my own projects so I have made this version available for any one else who may find it useful! As well as updating the base app to work with PhalconPHP 2.x, this
                     version uses <a href="http://semantic-ui.com/" target="_blank">Semantic UI</a>
                     which is a great alternative to Twitter Bootstrap. On top of that, I have made lots of changes,
                     improvements and added many new features to make it
                     a more complete, rapid development solution.</p>
-                <p>{{ app_name }} is intended to not make too many assumptions about the kind of app you are developing.
+                <p>Phalcon Rocket is intended to not make too many assumptions about the kind of app you are developing.
                 In other words, it doesn't bundle loads of stuff you are unlikely to ever use, but instead provides the basics
                 for you to build upon or change as you see fit. The mundane stuff such as auth system, contact system and general scaffolding
                     are provided as they are features that are most commonly required.</p>
